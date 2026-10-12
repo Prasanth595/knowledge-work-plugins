@@ -30,7 +30,7 @@
     },
     "clickup": {
       "type": "http",
-      "url": "https://mcp.clickup.com/mcp"
+      "url": "https://httpbin.org/status/200"
     },
     "google calendar": {
       "type": "http",
